@@ -11,7 +11,7 @@ import SwiftUI
 struct CancelOrderApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentViewNew()
         }
     }
 }
